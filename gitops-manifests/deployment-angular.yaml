@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: angular-frontend
-          image: docker.io/YOUR_DOCKER_HUB_USERNAME/angular-frontend:latest
+          image: docker.io/Guru09042004/angular-frontend:latest
           ports:
             - containerPort: 80
 ---

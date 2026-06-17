@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: python-backend
-          image: docker.io/YOUR_DOCKER_HUB_USERNAME/python-backend:latest
+          image: docker.io/Guru09042004/python-backend:latest
           ports:
             - containerPort: 5000
 ---
